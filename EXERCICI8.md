@@ -14,6 +14,8 @@ Igual que al exercici 7 comprovem que tenim el servei instal·lat i activat, en 
 
 ### •	Cal documentar els passos que has hagut de realitzar per preparar l'exemple: configuracions, instruccions DML, DDL, etc....
 
+![image](https://user-images.githubusercontent.com/61474765/161765155-8986d494-025c-4e34-83b1-57e7c7e50fc9.png)
+
 ![image](https://user-images.githubusercontent.com/61474765/161727133-e13cba01-3d2a-43fb-8938-2d7ad83c6a45.png)
 
 Creem la base de dades, en el meu cas la he anomenat champions.
